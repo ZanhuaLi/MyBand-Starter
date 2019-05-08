@@ -19,7 +19,7 @@ Je wordt beoordeeld op de aanwezigheid en inhoud van onderstaande documenten.
 
 ##### Fase 1: Opdracht vaststellen / Projectplan en planning / Ontwerpen & voorbereiden 
 
-Deze fase duurt 3 weken
+Deze fase duurt 2 weken
 
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
