@@ -1,0 +1,15 @@
+#img1 {
+float: left;
+    width: 700px;
+    height:350px;
+}
+
+
+#img2 {
+    width: 1180px;
+    height:330px;
+}
+
+body{
+    background-image: url('../img/3.jpg');
+}

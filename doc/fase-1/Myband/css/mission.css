@@ -1,0 +1,30 @@
+
+body{
+    text-align: center;
+    background-image: url('../img/4.jpg');
+}
+
+.u {
+   display:inline;
+    color:deepskyblue;
+}
+
+.n{
+    display:inline;
+    color:black;
+}
+
+.s {
+    display:inline;
+    color:red;
+}
+.c {
+    display:inline;
+    color: yellow;
+}
+
+#mi {
+    color: green;
+    margin:auto;
+    text-align: center;
+}
